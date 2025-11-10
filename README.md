@@ -44,10 +44,12 @@ I'm a passionate full stack developer based in Vienna, working at TietoEvry. I l
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
-<img
+<p align="center">
+  <img
   align="center"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthiasbigl&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
----
+</p>
+
 
 
 ## 🌟 Featured Projects
