@@ -47,15 +47,10 @@ I'm a passionate full stack developer based in Vienna, working at TietoEvry. I l
 
 ---
 
-## 📊 GitHub Stats
+## My languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matthiasbigl&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthiasbigl&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matthiasbigl&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
