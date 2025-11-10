@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Matthias Bigl</h1>
 
 <p align="center">
-  <em>Software Developer | Technology Enthusiast | Problem Solver</em>
+  <em>Full Stack Developer @ TietoEvry | Vienna 🇦🇹 | AI Enthusiast</em>
 </p>
 
 <p align="center">
@@ -14,27 +14,27 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer who loves building elegant solutions to complex problems. I enjoy exploring new technologies, contributing to open-source projects, and continuously learning to stay at the forefront of software development.
+I'm a passionate full stack developer based in Vienna, working at TietoEvry. I love building elegant solutions to complex problems and exploring cutting-edge technologies, especially in the AI space.
 
-- 🔭 Currently working on exciting projects and learning new technologies
-- 🌱 Always exploring and expanding my skill set
+- 🔭 Currently working on AI projects
+- 🌱 Exploring new technologies and expanding my skill set
 - 💡 Interested in clean code, best practices, and innovative solutions
 - 🤝 Open to collaboration on interesting projects
-- 📫 Feel free to reach out and connect!
+- 📫 Reach me at: matthias@bigls.net
 
 ---
 
 ## 🛠️ Technology Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 ---
@@ -54,8 +54,14 @@ I'm a passionate developer who loves building elegant solutions to complex probl
 
 ## 🌟 Featured Projects
 
-### 🚀 Coming Soon!
-I'm currently working on some exciting projects that will be featured here soon. Stay tuned!
+### 🎨 [3D Web Portfolio](https://github.com/matthiasbigl/threeWebportfolio)
+Interactive portfolio built with Svelte and Three.js - check it out at [portfolio.bigls.net](https://portfolio.bigls.net)
+
+### 🤖 [BiglBot 2.0](https://github.com/matthiasbigl/BiglBot2.0)
+Python-based bot with advanced automation capabilities
+
+### 🚆 [OEBBigl](https://github.com/matthiasbigl/OEBBigl)
+Transportation management application built with Svelte
 
 ---
 
@@ -65,10 +71,10 @@ I'm currently working on some exciting projects that will be featured here soon.
   <a href="https://github.com/matthiasbigl">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/matthiasbigl">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://portfolio.bigls.net">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:matthias.bigl@example.com">
+  <a href="mailto:matthias@bigls.net">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
