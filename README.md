@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Matthias Bigl</h1>
 
 <p align="center">
-  <em>Full Stack Developer @ TietoEvry | Vienna 🇦🇹 | AI Enthusiast</em>
+  <em>Full Stack Developer @ Tieto | Vienna 🇦🇹 | AI Enthusiast</em>
 </p>
 
 <p align="center">
