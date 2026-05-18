@@ -50,21 +50,6 @@ I'm a passionate full stack developer based in Vienna, working at TietoEvry. I l
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthiasbigl&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
-
-
-## 🌟 Featured Projects
-
-### 🎨 [3D Web Portfolio](https://github.com/matthiasbigl/threeWebportfolio)
-Interactive portfolio built with Svelte and Three.js - check it out at [portfolio.bigls.net](https://portfolio.bigls.net)
-
-### 🤖 [BiglBot 2.0](https://github.com/matthiasbigl/BiglBot2.0)
-Python-based bot with advanced automation capabilities
-
-### 🚆 [OEBBigl](https://github.com/matthiasbigl/OEBBigl)
-Transportation management application built with Svelte
-
----
-
 ## 💬 Let's Connect
 
 <p align="center">
